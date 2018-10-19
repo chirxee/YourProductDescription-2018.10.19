@@ -26,8 +26,8 @@ This repository was created with the intention of helping the targeted customer 
 
 1. **[基本信息](#1-基本信息)**
 2. **[教育情况 :notebook_with_decorative_cover:](#2-教育情况)**
-3. **[产品功能](#产品功能)**
-4. **[服务器配置](#服务器配置)**
+3. **[产品功能](#3-产品功能)**
+4. **[服务器配置](#4-服务器配置)**
 
 
 ---
